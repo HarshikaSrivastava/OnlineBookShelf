@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+      "categoryId": 1,
+      "productName": "Gone Girl",
+      "rating": "",
+      "price": "300",
+      "productImg": "http://localhost:4200/assets/1.jpg",
+      "category": "Thriller",
+      "isAvailable": 1,
+      "reviews": "Thriller",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "productName": "The Achimist",
+      "author": "Paulo Coelho",
+      "category": " Fiction",
+      "price": 199,
+      "productImg": "http://localhost:4200/assets/2.jpg"
+    },
+    {
+      "id": 4,
+      "categoryId": 3,
+      "productName": "Brida",
+      "author": "Paulo Coelho",
+      "category": " Fiction",
+      "price": 259,
+      "productImg": "http://localhost:4200/assets/4.jpg"
+    },
+    {
+      "id": 3,
+      "categoryId": 3,
+      "productName": "The Monk Who Sold His Ferrar",
+      "author": "Robin Sharma",
+      "category": " Fiction",
+      "price": 259,
+      "productImg": "http://localhost:4200/assets/3.jpg"
+    },
+  
+    {
+      "id": 5,
+      "categoryId": 5,
+      "productName": "The Collected Poems",
+      "author": " Sylvia Plath",
+      "category": " Poetry",
+      "price": 259,
+      "productImg": "http://localhost:4200/assets/5.jpg"
+    },
+    {
+      "id": 6,
+      "categoryId": 4,
+      "productName": "Think and grow rich",
+      "author": " Sylvia Plath",
+      "category": " Motivational",
+      "price": 259,
+      "ratings": "2",
+      "productImg": "http://localhost:4200/assets/6.jpg"
+    },
+    {
+      "categoryId": "2",
+      "productName": "Veronika Decides to Die",
+      "rating": "",
+      "price": "400",
+      "productImg": "",
+      "category": "2",
+      "isAvailable": 1,
+      "reviews": "2",
+      "id": 11
+    },
+    {
+      "id": 7,
+      "categoryId": 6,
+      "productName": "Long walk of Freedom ",
+      "author": "Nelson Mandela",
+      "category": " Autobiography",
+      "price": 199,
+      "productImg": "http://localhost:4200/assets/7.jpg"
+     
+      
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Thriller"
+    },
+    {
+      "id": 2,
+      "categoryName": "Adventure"
+    },
+    {
+      "id": 3,
+      "categoryName": "Fiction"
+    },
+    {
+      "id": 4,
+      "categoryName": "Motivational"
+    },
+    {
+      "id": 5,
+      "categoryName": "Poetry"
+    },
+    {
+      "id": 6,
+      "categoryName": "Autobiography"
+    }
+  ]
+}
