@@ -8,12 +8,12 @@ It performs CREATE UPDATE DELETE READ functions.
 
 ## Project SCOPE
 
- *Ability to delete the product 
- *Ability to add new product 
- *Search product by Category
- *Ability to update the product Inventory
- *Ability to view a “specific” product for details
- *Product module supports Lazy Loading 
+ * Ability to delete the product 
+ * Ability to add new product 
+ * Search product by Category
+ * Ability to update the product Inventory
+ * Ability to view a “specific” product for details
+ * Product module supports Lazy Loading 
 
 
 ## Project Frontend
